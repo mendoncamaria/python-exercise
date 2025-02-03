@@ -37,3 +37,9 @@ Explanation For Sample Input 2:
 In the first test case, digit 4 is repeating first in the string. Digits 6,7,5 are also repeating but the digit 4 is repeating first among all.     
 
 In the second test case, digit 8 is repeating first in the string.     
+
+### Company asked:
+1. Lenskart
+2. GreyOrange
+3. Western Digital
+4. Busibud solutions pvt ltd
