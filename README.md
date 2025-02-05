@@ -1,3 +1,3 @@
 # python-exercise
 
-code solutions
+code solutions for problems
